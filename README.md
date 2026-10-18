@@ -1,4 +1,4 @@
-# Anish Katoch — AI/ML Engineer Portfolio
+# Anish Katoch | AI/ML Engineer Portfolio
 
 A single-page portfolio site built with plain HTML, CSS, and JavaScript. No framework, no build step, no dependencies beyond a Google Fonts link.
 
@@ -21,8 +21,8 @@ Then visit `http://localhost:8000`.
 ## Project structure
 
 ```
-index.html   — all markup, styles, and scripts
-assets/      — profile photo
+index.html   : all markup, styles, and scripts
+assets/      : profile photo
 ```
 
 ## Adding or updating the profile photo
@@ -36,7 +36,7 @@ profile.png
 profile.webp
 ```
 
-The page checks for these in order and falls back to an "AK" placeholder if none are found — no code changes needed.
+The page checks for these in order and falls back to an "AK" placeholder if none are found, no code changes needed.
 
 ## Deploying
 
